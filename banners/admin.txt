@@ -1,0 +1,11 @@
+[ESC][1;36m  ╔╗                                         ╔╗             
+[ESC][1;36m ╔╣╠══════════════╦══════════════════════════╣╠╗             
+[ESC][1;36m ║║║ [ESC][1;37mUser         [ESC][1;36m║ [ESC][1;37mShows All User Commands  [ESC][1;36m║║║             
+[ESC][1;36m ║║║ [ESC][1;37mBroadcast    [ESC][1;36m║ [ESC][1;37mBroadcasts A Message     [ESC][1;36m║║║             
+[ESC][1;36m ║║║ [ESC][1;37mTogglelisten [ESC][1;36m║ [ESC][1;37mListen To Sent Attacks   [ESC][1;36m║║║             
+[ESC][1;36m ║║║ [ESC][1;37mTogglelogin  [ESC][1;36m║ [ESC][1;37mListen To Incoming Logins[ESC][1;36m║║║             
+[ESC][1;36m ║║║ [ESC][1;37mToggleattacks[ESC][1;36m║ [ESC][1;37mTurns Attacks On/Off     [ESC][1;36m║║║
+[ESC][1;36m ║║║ [ESC][1;37mcaptcha off  [ESC][1;36m║ [ESC][1;37mTurns Captcha On/Off     [ESC][1;36m║║║
+[ESC][1;36m ║║║ [ESC][1;37mtrigger off  [ESC][1;36m║ [ESC][1;37mTurns KTN Trigger On/Off [ESC][1;36m║║║             
+[ESC][1;36m ╚╣╠══════════════╩══════════════════════════╣╠╝             
+[ESC][1;36m  ╚╝
